@@ -30,14 +30,32 @@
 
 今日のハッシュタグ `#nodered #noderedjp` です。
 
-## スタート
+## 進行予定
 
+### 19:55	ハンズオン 第1部
+
+30 分
+
+* Katacoda を起動します
 * [Node-REDを動かしてみよう](01_getting_started.md)
 
-## エクストラ
+### 20:30	ハンズオン 第2部
 
-* [エクストラ：ほかの動物画像APIをつないで画像表示してみよう](98_extra_animal.md)
-* [エクストラ：public-apisで色々つないでみる](99_extra_api.md)
+30 分
+
+* Katacoda を閉じて起動しなおします
+* [猫画像 API からデータを取得してみよう](02_api_request.md)
+* [猫画像 API のデータを表示してみよう](03_cat_image_output.md)
+
+### 21:05	ハンズオン 第3部
+
+30 分
+
+* Katacoda を閉じて起動しなおします
+* [チャットにデータを送ってみよう](04_chat_output.md)
+* エクストラ
+  * [エクストラ：ほかの動物画像APIをつないで画像表示してみよう](98_extra_animal.md)
+  * [エクストラ：public-apisで色々つないでみる](99_extra_api.md)
 
 ## お疲れ様でした
 
