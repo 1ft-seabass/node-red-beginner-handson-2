@@ -48,10 +48,18 @@
 
 私が持っている Discord サーバーの一つにチャンネルを一つ作りました。
 
-あらかじめ、API の送り先を一つ発行してあります。
+あらかじめ、API の送り先を発行してあります。各ワークショップで振り分けていますので、いま入っているワークショップの方を使いましょう。
+
+田中ワークショップルームの人
 
 ```
 https://discord.com/api/webhooks/815829613052952577/KcOkTYSJ5hHPP5GTd3rKaFvn63FYZ_Yn3T64eSNGdOJaWqRkGDgi1P0wLa9UbtgWEL5v
+```
+
+横井ワークショップルームの人
+
+```
+https://discord.com/api/webhooks/815837652988461097/19QNd6-8MdF_G6cDigdaiGKxI2Y-FfWHJZA8FXkvPfkwx_fFsdRHbs46zRa8lERb320S
 ```
 
 こちらです↑
