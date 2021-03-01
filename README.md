@@ -32,6 +32,19 @@
 
 ## 進行予定
 
+### オープニング
+
+* 19:30	開場／受付開始
+* 19:35	Node-RED UG の紹介
+* 19:40	Node-RED について
+
+## ブレイクアウトルーム
+
+2つのルームに分けます！
+
+> ![](https://lh3.googleusercontent.com/w30582mUzbumJgyA6RXJ1tAkiiAkqIZC0n1b6ld4tl_7h_ZkoS6OT4Kv96ETl4R2WQFL-UQyKpZyUWIN83HzCYtmbzmJ2w4OAksieCvOJ9zDRMQH4Cb_GqMdv1MkY672KZh_baC0)
+> [Zoomのブレイクアウトルーム \(グループ分け\) 機能の使い方・オプション機能を徹底解説 \| ビズシル](https://blog.coubic.com/online/zoom-breakoutroom/)
+
 ### 19:55	ハンズオン 第1部
 
 30 分
