@@ -30,7 +30,7 @@ API につなげるためには HTTP という通信のルール（プロトコ�
 * データを受け取るとき（データ応答）
     * HTTPヘッダー
 
-さらにデータを受け取ったJSONデータという形で受け取ります。受け取ったAPIに合わせて、JSONデータの中身を理解して、必要なデータを取り出しします。
+さらにデータをJSONデータという形で受け取ります。受け取ったAPIに合わせて、JSONデータの中身を理解して、必要なデータを取り出しします。
 
 ## フリーのAPIのリストコレクション public-apis
 
@@ -77,7 +77,7 @@ inject ノード → http request ノード → debug ノード とつなぎま�
 
 ## 今回は猫画像をつなげてみます
 
-さきほどの フリーのAPIのリストコレクション [public\-apis](https://github.com/public-apis/public-apis) の中から、かわいい猫画像をランダムに返答してくれる Random Cat という
+さきほどの フリーのAPIのリストコレクション [public\-apis](https://github.com/public-apis/public-apis) の中から、かわいい猫画像をランダムに返答してくれる Random Cat というAPIを使ってみましょう。
 
 ![image](https://i.gyazo.com/dca6cd0f1ae97e469bbbfb81e19085fc.png)
 
@@ -150,7 +150,7 @@ http request ノードの設定の `出力形式` をUTF文字列から `JSONオ
 
 [![Image from Gyazo](https://i.gyazo.com/419a64aecb7753fa7cfe646155910dab.gif)](https://gyazo.com/419a64aecb7753fa7cfe646155910dab)
 
-このように、今回はシンプルな構造ですが、JSONの中身がツリー構造でのぞくことがデータの内容が把握しやすくなります。
+このように、今回はシンプルな構造ですが、JSONの中身をツリー構造でのぞくことでデータの内容が把握しやすくなります。
 
 ![image](https://i.gyazo.com/d51b5faaace99acf648a267bb27b91c9.png)
 

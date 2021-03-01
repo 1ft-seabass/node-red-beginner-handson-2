@@ -116,7 +116,7 @@ payload の中の file という値ということで `payload.file` となり�
 
 さて、画像を表示するノードですが、標準のノード群には存在していません。
 
-ですが。大丈夫です。
+ですが、大丈夫です。
 
 Node-RED は標準のノード群に [フロー検索（英語）](https://flows.nodered.org/) で探して、追加することができます。
 
@@ -147,11 +147,11 @@ Node-RED は標準のノード群に [フロー検索（英語）](https://flows
 
 ![image](https://i.gyazo.com/fe0db25502255250ea5923575af72034.png)
 
-ノードを検索書かれているエリアで検索できるので、
+ノードを検索と書かれているエリアで検索できるので、
 
 ![image](https://i.gyazo.com/fb02568bbd1e757da835b91938c3d861.png)
 
-node-red-contrib-image-output と入力して検索して、 node-red-contrib-image-output が出てきます。
+node-red-contrib-image-output と入力して検索すると、 node-red-contrib-image-output が出てきます。
 
 ![image](https://i.gyazo.com/e0828f744d38cc58f8daf935f7871e96.png)
 

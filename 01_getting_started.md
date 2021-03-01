@@ -62,7 +62,7 @@ https://www.katacoda.com/kazuhitoyokoi/scenarios/node-red
 
 [はじめてのフロー : Node\-RED日本ユーザ会](https://nodered.jp/docs/tutorials/first-flow)
 
-こちら元に進めます。
+こちらを元に進めます。
 
 ウォームアップしてみましょう。
 
