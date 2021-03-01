@@ -74,12 +74,6 @@
 
 ![image](https://i.gyazo.com/5a6aa1d064fcd403fa67091c7d0e417a.png)
 
-## アンケートよろしくお願いします
-
-![image](https://i.gyazo.com/5a32626d5bd81e02ea9c9ef47a98f67d.png)
-
-＜当日のアンケートURLが記述されてました＞
-
 ## ありがとうございました
 
 ![image](https://i.gyazo.com/6132b1f8e99f5725151417d7c146c6d2.png)

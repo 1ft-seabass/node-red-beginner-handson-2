@@ -53,13 +53,13 @@
 田中ワークショップルームの人
 
 ```
-https://discord.com/api/webhooks/815829613052952577/KcOkTYSJ5hHPP5GTd3rKaFvn63FYZ_Yn3T64eSNGdOJaWqRkGDgi1P0wLa9UbtgWEL5v
+＜当日だけ開かれたDiscordのURLを記述していました＞
 ```
 
 横井ワークショップルームの人
 
 ```
-https://discord.com/api/webhooks/815837652988461097/19QNd6-8MdF_G6cDigdaiGKxI2Y-FfWHJZA8FXkvPfkwx_fFsdRHbs46zRa8lERb320S
+＜当日だけ開かれたDiscordのURLを記述していました＞
 ```
 
 こちらです↑
