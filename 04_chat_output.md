@@ -51,7 +51,7 @@
 あらかじめ、API の送り先を一つ発行してあります。
 
 ```
-＜当日だけ開かれたDiscordのURLを記述していました＞
+https://discord.com/api/webhooks/815829613052952577/KcOkTYSJ5hHPP5GTd3rKaFvn63FYZ_Yn3T64eSNGdOJaWqRkGDgi1P0wLa9UbtgWEL5v
 ```
 
 こちらです↑
